@@ -1,0 +1,21 @@
+{
+    "plugins": ["prettier-plugin-java"],
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "printWidth": 100,
+    "endOfLine": "lf",
+    "overrides": [
+        {
+            "files": "*.java",
+            "options": {
+                "tabWidth": 4,
+                "printWidth": 100
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+target/
+build/
+out/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Git
+.git/
+
+# Other
+*.log
+*.tmp 
